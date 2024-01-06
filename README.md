@@ -1,5 +1,5 @@
 ### Hello everyone, 
-I am a junior unity developer from St. Petersburg
+I am a unity developer from St. Petersburg
 
 <!--
 **zelyyoriginal/Zelyyoriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
